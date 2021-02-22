@@ -1,0 +1,4 @@
+create repo into github.
+git remote add origin github url
+git remote 
+git remote -v
